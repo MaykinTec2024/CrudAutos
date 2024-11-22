@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SMITH\\Desktop\\sa\\AutosAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7CAFA-DBEA-47DD-BCE5-F8A26CE5DA4C}|AutosAPI\\AutosAPI.csproj|c:\\users\\smith\\desktop\\sa\\autosapi\\autosapi\\controllers\\autoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7CAFA-DBEA-47DD-BCE5-F8A26CE5DA4C}|AutosAPI\\AutosAPI.csproj|solutionrelative:autosapi\\controllers\\autoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7CAFA-DBEA-47DD-BCE5-F8A26CE5DA4C}|AutosAPI\\AutosAPI.csproj|c:\\users\\smith\\desktop\\sa\\autosapi\\autosapi\\repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E7CAFA-DBEA-47DD-BCE5-F8A26CE5DA4C}|AutosAPI\\AutosAPI.csproj|solutionrelative:autosapi\\repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutosController.cs",
+              "DocumentMoniker": "C:\\Users\\SMITH\\Desktop\\sa\\AutosAPI\\AutosAPI\\Controllers\\AutosController.cs",
+              "RelativeDocumentMoniker": "AutosAPI\\Controllers\\AutosController.cs",
+              "ToolTip": "C:\\Users\\SMITH\\Desktop\\sa\\AutosAPI\\AutosAPI\\Controllers\\AutosController.cs",
+              "RelativeToolTip": "AutosAPI\\Controllers\\AutosController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T00:07:48.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SMITH\\Desktop\\sa\\AutosAPI\\AutosAPI\\Repository\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AutosAPI\\Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\SMITH\\Desktop\\sa\\AutosAPI\\AutosAPI\\Repository\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AutosAPI\\Repository\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:58:09.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
